@@ -1,4 +1,4 @@
-﻿namespace TestWebApp.Configuration
+﻿namespace TestService.Configuration
 {
     public class ConsulOptions
     {

@@ -11,10 +11,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using TestWebApp.Configuration;
+using TestService.Configuration;
 using Winton.Extensions.Configuration.Consul;
 
-namespace TestWebApp.Helpers
+namespace TestService.Helpers
 {
     public static class DiscoveryService
     {

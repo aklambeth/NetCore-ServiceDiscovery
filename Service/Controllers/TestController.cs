@@ -6,9 +6,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using TestWebApp.Configuration;
+using TestService.Configuration;
 
-namespace TestWebApp.Controllers
+namespace TestService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

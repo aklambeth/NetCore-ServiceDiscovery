@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestWebApp.Helpers
+namespace TestService.Helpers
 {
     public interface IConsulRegistrationHelper
     {
