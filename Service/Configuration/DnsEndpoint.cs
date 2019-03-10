@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace TestWebApp.Configuration
+namespace TestService.Configuration
 {
     public class DnsEndpoint
     {

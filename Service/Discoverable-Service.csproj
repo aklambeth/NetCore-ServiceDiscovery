@@ -2,9 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <UserSecretsId>fa7e60f8-2b72-472d-932b-b3dee0aa2da5</UserSecretsId>
-    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
     <AssemblyName>TestService</AssemblyName>
     <RootNamespace>TestService</RootNamespace>
   </PropertyGroup>

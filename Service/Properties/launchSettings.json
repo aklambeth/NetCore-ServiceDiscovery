@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "TestWebApp": {
+    "TestService": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/",
@@ -25,14 +25,6 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "http://127.0.0.1:5000"
-    },
-    "Docker": {
-      "commandName": "Docker",
-      "launchBrowser": true,
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/api/values",
-      "httpPort": 60195,
-      "useSSL": true,
-      "sslPort": 44385
     }
   }
 }

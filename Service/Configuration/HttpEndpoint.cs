@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace TestWebApp.Configuration
+namespace TestService.Configuration
 {
     public class HttpEndpoint
     {

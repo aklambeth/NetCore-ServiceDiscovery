@@ -6,9 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using TestWebApp.Configuration;
+using TestService.Configuration;
 
-namespace TestWebApp.Helpers
+namespace TestService.Helpers
 {
     public class ConsulRegistrationHelper : IConsulRegistrationHelper
     {
