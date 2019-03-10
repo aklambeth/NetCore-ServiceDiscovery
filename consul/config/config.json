@@ -1,0 +1,6 @@
+{
+    "enable_local_script_checks": true,
+    "node_name": "dev",
+    "log_level": "INFO",
+    "ui":true
+}

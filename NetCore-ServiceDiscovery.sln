@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.28621.142
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discoverable-Service", "Service\Discoverable-Service.csproj", "{7B8FAE39-AD0E-42DE-B3C8-B1ADCD672C82}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{90F63F6B-81EE-45EB-9F78-6D792B758B5F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestClient", "Client\TestClient.csproj", "{1402E6DF-D006-406B-B928-0BFDAFAE8B21}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{7B8FAE39-AD0E-42DE-B3C8-B1ADCD672C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B8FAE39-AD0E-42DE-B3C8-B1ADCD672C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B8FAE39-AD0E-42DE-B3C8-B1ADCD672C82}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90F63F6B-81EE-45EB-9F78-6D792B758B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90F63F6B-81EE-45EB-9F78-6D792B758B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90F63F6B-81EE-45EB-9F78-6D792B758B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90F63F6B-81EE-45EB-9F78-6D792B758B5F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1402E6DF-D006-406B-B928-0BFDAFAE8B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1402E6DF-D006-406B-B928-0BFDAFAE8B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1402E6DF-D006-406B-B928-0BFDAFAE8B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
